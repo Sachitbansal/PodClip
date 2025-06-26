@@ -1,0 +1,20 @@
+CURRENT TILL NOW
+YT se 10 second interval mein subtitles extract krliye hain..
+transcriptions along with timestamps has been sent to gemini and vo best scene identify kr bhi para hai.
+
+PROBLEMS & IMPROVEMENTS
+I want ki 10-10 seconds ke time stamps ki jagah mein use bas 5 minutes convo ki transcription dun and vo best 1 minute ki starting line btade. which would be the hook line for the viewer. and udharse aage video chale and clip ho
+
+for this i need some model jise mein sentence dun and vo time btade ki vo exact line kis time pe boli jaati hai. like the starting time and us timestamp ke accoridng mein clipping start karin =====   USE WHISPERX ====
+
+
+
+ANOTHER PROBLEM
+Aisa ek model chahiye ki vo speaker identify kare in particular clip ki left banda bolra hai ki right banda. and merko frame dede jiske according the video should be cropped in place
+
+
+
+NEXT STEPS
+ek aisa model ki ham use transcript se line den and vo btade video chunk leke ki iss time pe exact aapki ye line start hui hai
+
+prompt ko aisa bolna hai ki vo transcript mein se best possible starting hookline bataye jis se video start ho.
