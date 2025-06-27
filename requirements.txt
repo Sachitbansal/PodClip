@@ -1,0 +1,3 @@
+huggingface_hub
+git+https://github.com/m-bain/whisperX
+libcudnn8
