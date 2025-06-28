@@ -1,3 +1,9 @@
 .env
-backend/WhisperXModel/audio.wav
+
 PodClipEnv
+backend/FaceDetectionModel/input.mp4
+downloaded_video.f140.m4a
+downloaded_video.f401.mp4
+podcast_faces.mp4
+backend/WhisperXModel/audio
+WhisperXEnv

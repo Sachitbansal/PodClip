@@ -1,7 +1,7 @@
 import re
 import json
-from sceneDetection import analyze_podcast_segment
-from chunking import extract_youtube_transcript_chunks
+from backend.Preprocessing.sceneDetection import analyze_podcast_segment
+from backend.Preprocessing.chunking import extract_youtube_transcript_chunks
 
 file = extract_youtube_transcript_chunks("https://www.youtube.com/watch?v=9EqrUK7ghho")
 
