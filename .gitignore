@@ -1,5 +1,4 @@
 .env
-
 PodClipEnv
 backend/FaceDetectionModel/input.mp4
 downloaded_video.f140.m4a

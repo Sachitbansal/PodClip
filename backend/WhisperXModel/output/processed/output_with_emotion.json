@@ -1,0 +1,1769 @@
+{
+  "segments": [
+    {
+      "start": 0.031,
+      "end": 9.552,
+      "text": " with the two is you really have to find that right balance.  and understand there will be and just talk about it.  There's a push. We're all going to make a push.",
+      "words": [
+        {
+          "start": 0.062,
+          "end": 0.385,
+          "word": "with"
+        },
+        {
+          "start": 0.42600000000000005,
+          "end": 0.506,
+          "word": "the"
+        },
+        {
+          "start": 0.5870000000000001,
+          "end": 0.749,
+          "word": "two"
+        },
+        {
+          "start": 0.8290000000000001,
+          "end": 0.91,
+          "word": "is"
+        },
+        {
+          "start": 1.2939999999999998,
+          "end": 1.395,
+          "word": "you"
+        },
+        {
+          "start": 1.4349999999999998,
+          "end": 1.617,
+          "word": "really"
+        },
+        {
+          "start": 1.658,
+          "end": 1.799,
+          "word": "have"
+        },
+        {
+          "start": 1.839,
+          "end": 1.9,
+          "word": "to"
+        },
+        {
+          "start": 2.001,
+          "end": 2.3240000000000003,
+          "word": "find"
+        },
+        {
+          "start": 2.3640000000000003,
+          "end": 2.748,
+          "word": "that"
+        },
+        {
+          "start": 2.789,
+          "end": 3.273,
+          "word": "right"
+        },
+        {
+          "start": 3.354,
+          "end": 3.879,
+          "word": "balance."
+        },
+        {
+          "start": 7.656,
+          "end": 7.798,
+          "word": "and"
+        },
+        {
+          "start": 7.8580000000000005,
+          "end": 8.283,
+          "word": "understand"
+        },
+        {
+          "start": 8.324,
+          "end": 8.506,
+          "word": "there"
+        },
+        {
+          "start": 8.566,
+          "end": 8.748,
+          "word": "will"
+        },
+        {
+          "start": 8.789,
+          "end": 8.89,
+          "word": "be"
+        },
+        {
+          "start": 8.93,
+          "end": 9.659,
+          "word": "and"
+        },
+        {
+          "start": 9.76,
+          "end": 9.902,
+          "word": "just"
+        },
+        {
+          "start": 9.942,
+          "end": 10.144,
+          "word": "talk"
+        },
+        {
+          "start": 10.164,
+          "end": 10.347,
+          "word": "about"
+        },
+        {
+          "start": 10.366999999999999,
+          "end": 10.933,
+          "word": "it."
+        },
+        {
+          "start": 14.17,
+          "end": 14.453,
+          "word": "There's"
+        },
+        {
+          "start": 14.494,
+          "end": 14.533999999999999,
+          "word": "a"
+        },
+        {
+          "start": 14.574,
+          "end": 14.858,
+          "word": "push."
+        },
+        {
+          "start": 15.706,
+          "end": 15.868,
+          "word": "We're"
+        },
+        {
+          "start": 15.908999999999999,
+          "end": 16.009999999999998,
+          "word": "all"
+        },
+        {
+          "start": 16.049999999999997,
+          "end": 16.151,
+          "word": "going"
+        },
+        {
+          "start": 16.172,
+          "end": 16.212,
+          "word": "to"
+        },
+        {
+          "start": 16.253,
+          "end": 16.394,
+          "word": "make"
+        },
+        {
+          "start": 16.455,
+          "end": 16.475,
+          "word": "a"
+        },
+        {
+          "start": 16.515,
+          "end": 17.405,
+          "word": "push."
+        }
+      ],
+      "emotion": {
+        "label": "happy",
+        "score": 0.9465407133102417
+      }
+    },
+    {
+      "start": 9.532,
+      "end": 20.115,
+      "text": " We did it recently as a company at Calm.  where we are around the elections.  And we treated the elections like our Super Bowl moment.  because we knew and we saw the data.",
+      "words": [
+        {
+          "start": 19.064,
+          "end": 19.307000000000002,
+          "word": "We"
+        },
+        {
+          "start": 19.348,
+          "end": 19.490000000000002,
+          "word": "did"
+        },
+        {
+          "start": 19.53,
+          "end": 19.570999999999998,
+          "word": "it"
+        },
+        {
+          "start": 19.631999999999998,
+          "end": 20.037,
+          "word": "recently"
+        },
+        {
+          "start": 20.137999999999998,
+          "end": 20.219,
+          "word": "as"
+        },
+        {
+          "start": 20.28,
+          "end": 20.3,
+          "word": "a"
+        },
+        {
+          "start": 20.361,
+          "end": 20.826999999999998,
+          "word": "company"
+        },
+        {
+          "start": 21.212,
+          "end": 21.557000000000002,
+          "word": "at"
+        },
+        {
+          "start": 21.576999999999998,
+          "end": 22.104,
+          "word": "Calm."
+        },
+        {
+          "start": 25.104,
+          "end": 25.427999999999997,
+          "word": "where"
+        },
+        {
+          "start": 25.448,
+          "end": 25.488,
+          "word": "we"
+        },
+        {
+          "start": 25.852,
+          "end": 25.994,
+          "word": "are"
+        },
+        {
+          "start": 26.216,
+          "end": 26.459,
+          "word": "around"
+        },
+        {
+          "start": 26.499,
+          "end": 26.56,
+          "word": "the"
+        },
+        {
+          "start": 26.58,
+          "end": 27.671999999999997,
+          "word": "elections."
+        },
+        {
+          "start": 30.2,
+          "end": 30.362000000000002,
+          "word": "And"
+        },
+        {
+          "start": 30.402,
+          "end": 30.463,
+          "word": "we"
+        },
+        {
+          "start": 30.524,
+          "end": 30.766,
+          "word": "treated"
+        },
+        {
+          "start": 30.787,
+          "end": 30.866999999999997,
+          "word": "the"
+        },
+        {
+          "start": 30.887999999999998,
+          "end": 31.454,
+          "word": "elections"
+        },
+        {
+          "start": 31.778,
+          "end": 31.979999999999997,
+          "word": "like"
+        },
+        {
+          "start": 32.061,
+          "end": 32.142,
+          "word": "our"
+        },
+        {
+          "start": 32.182,
+          "end": 32.486,
+          "word": "Super"
+        },
+        {
+          "start": 32.506,
+          "end": 32.647,
+          "word": "Bowl"
+        },
+        {
+          "start": 32.708,
+          "end": 33.072,
+          "word": "moment."
+        },
+        {
+          "start": 35.904,
+          "end": 36.088,
+          "word": "because"
+        },
+        {
+          "start": 36.108000000000004,
+          "end": 36.21,
+          "word": "we"
+        },
+        {
+          "start": 36.292,
+          "end": 36.516000000000005,
+          "word": "knew"
+        },
+        {
+          "start": 36.557,
+          "end": 36.618,
+          "word": "and"
+        },
+        {
+          "start": 36.659000000000006,
+          "end": 36.904,
+          "word": "we"
+        },
+        {
+          "start": 36.945,
+          "end": 37.088,
+          "word": "saw"
+        },
+        {
+          "start": 37.129000000000005,
+          "end": 37.21,
+          "word": "the"
+        },
+        {
+          "start": 37.292,
+          "end": 38.067,
+          "word": "data."
+        }
+      ],
+      "emotion": {
+        "label": "fearful",
+        "score": 0.5248692631721497
+      }
+    },
+    {
+      "start": 20.095,
+      "end": 32.367,
+      "text": " that people's stress was rising.  every day as that day, November 5th, got closer and closer.  We saw it in the app store, we saw it in comments, we saw it on social.  So we really came together as a company.",
+      "words": [
+        {
+          "start": 40.19,
+          "end": 40.454,
+          "word": "that"
+        },
+        {
+          "start": 40.596000000000004,
+          "end": 40.92,
+          "word": "people's"
+        },
+        {
+          "start": 40.94,
+          "end": 41.285,
+          "word": "stress"
+        },
+        {
+          "start": 41.326,
+          "end": 41.427,
+          "word": "was"
+        },
+        {
+          "start": 41.61,
+          "end": 42.218,
+          "word": "rising."
+        },
+        {
+          "start": 44.206,
+          "end": 44.528999999999996,
+          "word": "every"
+        },
+        {
+          "start": 44.57,
+          "end": 44.852000000000004,
+          "word": "day"
+        },
+        {
+          "start": 44.893,
+          "end": 45.115,
+          "word": "as"
+        },
+        {
+          "start": 45.175,
+          "end": 45.337,
+          "word": "that"
+        },
+        {
+          "start": 45.398,
+          "end": 45.64,
+          "word": "day,"
+        },
+        {
+          "start": 45.68000000000001,
+          "end": 46.024,
+          "word": "November"
+        },
+        {
+          "start": 46.044,
+          "end": 46.306,
+          "word": "5th,"
+        },
+        {
+          "start": 46.327,
+          "end": 46.488,
+          "word": "got"
+        },
+        {
+          "start": 46.811,
+          "end": 47.114000000000004,
+          "word": "closer"
+        },
+        {
+          "start": 47.155,
+          "end": 47.236000000000004,
+          "word": "and"
+        },
+        {
+          "start": 47.256,
+          "end": 48.023,
+          "word": "closer."
+        },
+        {
+          "start": 51.8,
+          "end": 51.941,
+          "word": "We"
+        },
+        {
+          "start": 51.980999999999995,
+          "end": 52.102000000000004,
+          "word": "saw"
+        },
+        {
+          "start": 52.123,
+          "end": 52.183,
+          "word": "it"
+        },
+        {
+          "start": 52.203,
+          "end": 52.244,
+          "word": "in"
+        },
+        {
+          "start": 52.284,
+          "end": 52.343999999999994,
+          "word": "the"
+        },
+        {
+          "start": 52.425,
+          "end": 52.586,
+          "word": "app"
+        },
+        {
+          "start": 52.605999999999995,
+          "end": 52.848,
+          "word": "store,"
+        },
+        {
+          "start": 52.888999999999996,
+          "end": 52.968999999999994,
+          "word": "we"
+        },
+        {
+          "start": 53.01,
+          "end": 53.171,
+          "word": "saw"
+        },
+        {
+          "start": 53.191,
+          "end": 53.232,
+          "word": "it"
+        },
+        {
+          "start": 53.272,
+          "end": 53.331999999999994,
+          "word": "in"
+        },
+        {
+          "start": 53.393,
+          "end": 53.857,
+          "word": "comments,"
+        },
+        {
+          "start": 53.876999999999995,
+          "end": 53.977999999999994,
+          "word": "we"
+        },
+        {
+          "start": 54.018,
+          "end": 54.28,
+          "word": "saw"
+        },
+        {
+          "start": 54.3,
+          "end": 54.34,
+          "word": "it"
+        },
+        {
+          "start": 54.542,
+          "end": 54.643,
+          "word": "on"
+        },
+        {
+          "start": 54.663,
+          "end": 55.55,
+          "word": "social."
+        },
+        {
+          "start": 59.26,
+          "end": 59.483000000000004,
+          "word": "So"
+        },
+        {
+          "start": 59.524,
+          "end": 59.605000000000004,
+          "word": "we"
+        },
+        {
+          "start": 59.644999999999996,
+          "end": 59.97,
+          "word": "really"
+        },
+        {
+          "start": 60.375,
+          "end": 60.598,
+          "word": "came"
+        },
+        {
+          "start": 60.638999999999996,
+          "end": 60.962999999999994,
+          "word": "together"
+        },
+        {
+          "start": 61.024,
+          "end": 61.084999999999994,
+          "word": "as"
+        },
+        {
+          "start": 61.105000000000004,
+          "end": 61.125,
+          "word": "a"
+        },
+        {
+          "start": 61.227000000000004,
+          "end": 61.997,
+          "word": "company."
+        }
+      ],
+      "emotion": {
+        "label": "happy",
+        "score": 0.9831247329711914
+      }
+    },
+    {
+      "start": 32.347,
+      "end": 44.415,
+      "text": " to do different types of things around that.  Take a breath, 30 seconds or 15 seconds of silence.  We showed...  Animals from the San Diego Zoo on Instagram.",
+      "words": [
+        {
+          "start": 64.694,
+          "end": 65.05799999999999,
+          "word": "to"
+        },
+        {
+          "start": 65.119,
+          "end": 65.25999999999999,
+          "word": "do"
+        },
+        {
+          "start": 65.382,
+          "end": 65.705,
+          "word": "different"
+        },
+        {
+          "start": 65.76599999999999,
+          "end": 66.09,
+          "word": "types"
+        },
+        {
+          "start": 66.13,
+          "end": 66.17,
+          "word": "of"
+        },
+        {
+          "start": 66.211,
+          "end": 66.474,
+          "word": "things"
+        },
+        {
+          "start": 66.51400000000001,
+          "end": 66.98,
+          "word": "around"
+        },
+        {
+          "start": 67.03999999999999,
+          "end": 67.667,
+          "word": "that."
+        },
+        {
+          "start": 70.6,
+          "end": 70.842,
+          "word": "Take"
+        },
+        {
+          "start": 70.862,
+          "end": 70.883,
+          "word": "a"
+        },
+        {
+          "start": 70.963,
+          "end": 71.327,
+          "word": "breath,"
+        },
+        {
+          "start": 71.549,
+          "end": 71.872,
+          "word": "30"
+        },
+        {
+          "start": 71.912,
+          "end": 72.19399999999999,
+          "word": "seconds"
+        },
+        {
+          "start": 72.235,
+          "end": 72.29499999999999,
+          "word": "or"
+        },
+        {
+          "start": 72.316,
+          "end": 72.639,
+          "word": "15"
+        },
+        {
+          "start": 72.679,
+          "end": 72.941,
+          "word": "seconds"
+        },
+        {
+          "start": 72.982,
+          "end": 73.062,
+          "word": "of"
+        },
+        {
+          "start": 73.083,
+          "end": 73.809,
+          "word": "silence."
+        },
+        {
+          "start": 76.978,
+          "end": 78.191,
+          "word": "We"
+        },
+        {
+          "start": 78.656,
+          "end": 79.64699999999999,
+          "word": "showed..."
+        },
+        {
+          "start": 82.276,
+          "end": 82.964,
+          "word": "Animals"
+        },
+        {
+          "start": 83.267,
+          "end": 83.368,
+          "word": "from"
+        },
+        {
+          "start": 83.389,
+          "end": 83.449,
+          "word": "the"
+        },
+        {
+          "start": 83.50999999999999,
+          "end": 83.69200000000001,
+          "word": "San"
+        },
+        {
+          "start": 83.71199999999999,
+          "end": 84.19800000000001,
+          "word": "Diego"
+        },
+        {
+          "start": 84.238,
+          "end": 84.4,
+          "word": "Zoo"
+        },
+        {
+          "start": 84.461,
+          "end": 84.52199999999999,
+          "word": "on"
+        },
+        {
+          "start": 84.582,
+          "end": 85.553,
+          "word": "Instagram."
+        }
+      ],
+      "emotion": {
+        "label": "fearful",
+        "score": 0.9959789514541626
+      }
+    },
+    {
+      "start": 44.395,
+      "end": 55.772,
+      "text": " And we got so many people commenting that day.  that said, hey, thank you for the silence.  Thank you for my 15 seconds in this world where.  So many things are happening now.",
+      "words": [
+        {
+          "start": 88.79,
+          "end": 88.93100000000001,
+          "word": "And"
+        },
+        {
+          "start": 88.951,
+          "end": 89.05199999999999,
+          "word": "we"
+        },
+        {
+          "start": 89.093,
+          "end": 89.214,
+          "word": "got"
+        },
+        {
+          "start": 89.39500000000001,
+          "end": 89.59700000000001,
+          "word": "so"
+        },
+        {
+          "start": 89.638,
+          "end": 89.799,
+          "word": "many"
+        },
+        {
+          "start": 89.86000000000001,
+          "end": 90.142,
+          "word": "people"
+        },
+        {
+          "start": 90.203,
+          "end": 90.748,
+          "word": "commenting"
+        },
+        {
+          "start": 90.80799999999999,
+          "end": 90.99000000000001,
+          "word": "that"
+        },
+        {
+          "start": 91.05000000000001,
+          "end": 91.797,
+          "word": "day."
+        },
+        {
+          "start": 94.764,
+          "end": 94.967,
+          "word": "that"
+        },
+        {
+          "start": 95.007,
+          "end": 95.149,
+          "word": "said,"
+        },
+        {
+          "start": 95.169,
+          "end": 95.291,
+          "word": "hey,"
+        },
+        {
+          "start": 95.311,
+          "end": 95.493,
+          "word": "thank"
+        },
+        {
+          "start": 95.53399999999999,
+          "end": 95.615,
+          "word": "you"
+        },
+        {
+          "start": 95.655,
+          "end": 95.71600000000001,
+          "word": "for"
+        },
+        {
+          "start": 95.756,
+          "end": 95.83699999999999,
+          "word": "the"
+        },
+        {
+          "start": 95.858,
+          "end": 97.012,
+          "word": "silence."
+        },
+        {
+          "start": 99.22,
+          "end": 99.50200000000001,
+          "word": "Thank"
+        },
+        {
+          "start": 99.542,
+          "end": 99.663,
+          "word": "you"
+        },
+        {
+          "start": 99.70400000000001,
+          "end": 99.88499999999999,
+          "word": "for"
+        },
+        {
+          "start": 100.04599999999999,
+          "end": 100.167,
+          "word": "my"
+        },
+        {
+          "start": 100.187,
+          "end": 100.59100000000001,
+          "word": "15"
+        },
+        {
+          "start": 100.651,
+          "end": 101.03399999999999,
+          "word": "seconds"
+        },
+        {
+          "start": 101.23599999999999,
+          "end": 101.316,
+          "word": "in"
+        },
+        {
+          "start": 101.37700000000001,
+          "end": 101.518,
+          "word": "this"
+        },
+        {
+          "start": 101.63900000000001,
+          "end": 101.941,
+          "word": "world"
+        },
+        {
+          "start": 102.001,
+          "end": 102.868,
+          "word": "where."
+        },
+        {
+          "start": 106.476,
+          "end": 106.922,
+          "word": "So"
+        },
+        {
+          "start": 106.983,
+          "end": 107.145,
+          "word": "many"
+        },
+        {
+          "start": 107.206,
+          "end": 107.449,
+          "word": "things"
+        },
+        {
+          "start": 107.50999999999999,
+          "end": 107.61099999999999,
+          "word": "are"
+        },
+        {
+          "start": 107.652,
+          "end": 107.997,
+          "word": "happening"
+        },
+        {
+          "start": 108.503,
+          "end": 109.00999999999999,
+          "word": "now."
+        }
+      ],
+      "emotion": {
+        "label": "fearful",
+        "score": 0.5306679606437683
+      }
+    },
+    {
+      "start": 55.752,
+      "end": 63.973,
+      "text": " People were dialing in from work?  Cause they were stressed at work. Stress doesn't just mean it's at home.  It was like people were like during the elections coming in from work.",
+      "words": [
+        {
+          "start": 111.504,
+          "end": 111.88900000000001,
+          "word": "People"
+        },
+        {
+          "start": 111.93,
+          "end": 112.05199999999999,
+          "word": "were"
+        },
+        {
+          "start": 112.275,
+          "end": 112.6,
+          "word": "dialing"
+        },
+        {
+          "start": 112.62,
+          "end": 112.721,
+          "word": "in"
+        },
+        {
+          "start": 112.742,
+          "end": 112.863,
+          "word": "from"
+        },
+        {
+          "start": 112.924,
+          "end": 113.634,
+          "word": "work?"
+        },
+        {
+          "start": 115.724,
+          "end": 115.886,
+          "word": "Cause"
+        },
+        {
+          "start": 115.906,
+          "end": 115.987,
+          "word": "they"
+        },
+        {
+          "start": 116.007,
+          "end": 116.088,
+          "word": "were"
+        },
+        {
+          "start": 116.108,
+          "end": 116.391,
+          "word": "stressed"
+        },
+        {
+          "start": 116.451,
+          "end": 116.512,
+          "word": "at"
+        },
+        {
+          "start": 116.55199999999999,
+          "end": 116.774,
+          "word": "work."
+        },
+        {
+          "start": 117.946,
+          "end": 118.168,
+          "word": "Stress"
+        },
+        {
+          "start": 118.208,
+          "end": 118.41,
+          "word": "doesn't"
+        },
+        {
+          "start": 118.592,
+          "end": 118.75399999999999,
+          "word": "just"
+        },
+        {
+          "start": 118.794,
+          "end": 118.935,
+          "word": "mean"
+        },
+        {
+          "start": 118.976,
+          "end": 119.09700000000001,
+          "word": "it's"
+        },
+        {
+          "start": 119.137,
+          "end": 119.21799999999999,
+          "word": "at"
+        },
+        {
+          "start": 119.279,
+          "end": 119.521,
+          "word": "home."
+        },
+        {
+          "start": 121.056,
+          "end": 121.257,
+          "word": "It"
+        },
+        {
+          "start": 121.298,
+          "end": 121.419,
+          "word": "was"
+        },
+        {
+          "start": 121.459,
+          "end": 121.64,
+          "word": "like"
+        },
+        {
+          "start": 121.822,
+          "end": 122.023,
+          "word": "people"
+        },
+        {
+          "start": 122.084,
+          "end": 122.20400000000001,
+          "word": "were"
+        },
+        {
+          "start": 122.265,
+          "end": 122.386,
+          "word": "like"
+        },
+        {
+          "start": 122.426,
+          "end": 122.58699999999999,
+          "word": "during"
+        },
+        {
+          "start": 122.627,
+          "end": 122.68799999999999,
+          "word": "the"
+        },
+        {
+          "start": 122.72800000000001,
+          "end": 123.071,
+          "word": "elections"
+        },
+        {
+          "start": 123.131,
+          "end": 123.37299999999999,
+          "word": "coming"
+        },
+        {
+          "start": 123.43299999999999,
+          "end": 123.514,
+          "word": "in"
+        },
+        {
+          "start": 123.554,
+          "end": 123.675,
+          "word": "from"
+        },
+        {
+          "start": 123.73599999999999,
+          "end": 124.501,
+          "word": "work."
+        }
+      ],
+      "emotion": {
+        "label": "surprised",
+        "score": 0.8817501068115234
+      }
+    },
+    {
+      "start": 63.953,
+      "end": 75.718,
+      "text": " And so we wanted to give them a little bit so they had a release so they could be more productive.  So there's a lot of things  around stuff that I look at for  good stress and bad stress and recognize there's always going to be a push pull.",
+      "words": [
+        {
+          "start": 127.906,
+          "end": 128.128,
+          "word": "And"
+        },
+        {
+          "start": 128.16899999999998,
+          "end": 128.29000000000002,
+          "word": "so"
+        },
+        {
+          "start": 128.35000000000002,
+          "end": 128.472,
+          "word": "we"
+        },
+        {
+          "start": 128.53199999999998,
+          "end": 128.775,
+          "word": "wanted"
+        },
+        {
+          "start": 128.79500000000002,
+          "end": 128.85500000000002,
+          "word": "to"
+        },
+        {
+          "start": 128.916,
+          "end": 129.037,
+          "word": "give"
+        },
+        {
+          "start": 129.098,
+          "end": 129.219,
+          "word": "them"
+        },
+        {
+          "start": 129.3,
+          "end": 129.32,
+          "word": "a"
+        },
+        {
+          "start": 129.361,
+          "end": 129.563,
+          "word": "little"
+        },
+        {
+          "start": 129.603,
+          "end": 129.724,
+          "word": "bit"
+        },
+        {
+          "start": 129.765,
+          "end": 129.88600000000002,
+          "word": "so"
+        },
+        {
+          "start": 129.906,
+          "end": 130.007,
+          "word": "they"
+        },
+        {
+          "start": 130.027,
+          "end": 130.108,
+          "word": "had"
+        },
+        {
+          "start": 130.148,
+          "end": 130.16899999999998,
+          "word": "a"
+        },
+        {
+          "start": 130.22899999999998,
+          "end": 130.59300000000002,
+          "word": "release"
+        },
+        {
+          "start": 130.613,
+          "end": 130.977,
+          "word": "so"
+        },
+        {
+          "start": 130.997,
+          "end": 131.098,
+          "word": "they"
+        },
+        {
+          "start": 131.118,
+          "end": 131.239,
+          "word": "could"
+        },
+        {
+          "start": 131.28,
+          "end": 131.34,
+          "word": "be"
+        },
+        {
+          "start": 131.381,
+          "end": 131.542,
+          "word": "more"
+        },
+        {
+          "start": 131.583,
+          "end": 131.825,
+          "word": "productive."
+        },
+        {
+          "start": 135.704,
+          "end": 135.86599999999999,
+          "word": "So"
+        },
+        {
+          "start": 136.698,
+          "end": 137.26600000000002,
+          "word": "there's"
+        },
+        {
+          "start": 137.30599999999998,
+          "end": 137.327,
+          "word": "a"
+        },
+        {
+          "start": 137.387,
+          "end": 137.529,
+          "word": "lot"
+        },
+        {
+          "start": 137.55,
+          "end": 137.59,
+          "word": "of"
+        },
+        {
+          "start": 137.611,
+          "end": 137.732,
+          "word": "things"
+        },
+        {
+          "start": 139.72,
+          "end": 140.167,
+          "word": "around"
+        },
+        {
+          "start": 140.268,
+          "end": 140.57299999999998,
+          "word": "stuff"
+        },
+        {
+          "start": 140.776,
+          "end": 140.918,
+          "word": "that"
+        },
+        {
+          "start": 140.959,
+          "end": 140.97899999999998,
+          "word": "I"
+        },
+        {
+          "start": 141.04000000000002,
+          "end": 141.243,
+          "word": "look"
+        },
+        {
+          "start": 141.365,
+          "end": 141.446,
+          "word": "at"
+        },
+        {
+          "start": 141.487,
+          "end": 141.933,
+          "word": "for"
+        },
+        {
+          "start": 144.106,
+          "end": 144.348,
+          "word": "good"
+        },
+        {
+          "start": 144.38799999999998,
+          "end": 144.69,
+          "word": "stress"
+        },
+        {
+          "start": 144.75,
+          "end": 144.83100000000002,
+          "word": "and"
+        },
+        {
+          "start": 144.91199999999998,
+          "end": 145.173,
+          "word": "bad"
+        },
+        {
+          "start": 145.19299999999998,
+          "end": 145.536,
+          "word": "stress"
+        },
+        {
+          "start": 145.596,
+          "end": 145.697,
+          "word": "and"
+        },
+        {
+          "start": 145.777,
+          "end": 146.281,
+          "word": "recognize"
+        },
+        {
+          "start": 146.301,
+          "end": 146.442,
+          "word": "there's"
+        },
+        {
+          "start": 146.482,
+          "end": 146.664,
+          "word": "always"
+        },
+        {
+          "start": 146.704,
+          "end": 146.805,
+          "word": "going"
+        },
+        {
+          "start": 146.825,
+          "end": 146.865,
+          "word": "to"
+        },
+        {
+          "start": 146.905,
+          "end": 146.945,
+          "word": "be"
+        },
+        {
+          "start": 146.986,
+          "end": 147.026,
+          "word": "a"
+        },
+        {
+          "start": 147.066,
+          "end": 147.348,
+          "word": "push"
+        },
+        {
+          "start": 147.368,
+          "end": 147.77100000000002,
+          "word": "pull."
+        }
+      ],
+      "emotion": {
+        "label": "surprised",
+        "score": 0.6048997640609741
+      }
+    },
+    {
+      "start": 75.698,
+      "end": 82.485,
+      "text": " But that's the part where you can't do it alone.  You gotta have a good team. You gotta talk about it. You do this so well.",
+      "words": [
+        {
+          "start": 151.396,
+          "end": 151.618,
+          "word": "But"
+        },
+        {
+          "start": 151.678,
+          "end": 151.95999999999998,
+          "word": "that's"
+        },
+        {
+          "start": 152.021,
+          "end": 152.101,
+          "word": "the"
+        },
+        {
+          "start": 152.16199999999998,
+          "end": 152.404,
+          "word": "part"
+        },
+        {
+          "start": 152.524,
+          "end": 152.766,
+          "word": "where"
+        },
+        {
+          "start": 152.827,
+          "end": 153.331,
+          "word": "you"
+        },
+        {
+          "start": 153.43099999999998,
+          "end": 153.653,
+          "word": "can't"
+        },
+        {
+          "start": 153.69299999999998,
+          "end": 153.774,
+          "word": "do"
+        },
+        {
+          "start": 153.834,
+          "end": 153.875,
+          "word": "it"
+        },
+        {
+          "start": 153.935,
+          "end": 154.74099999999999,
+          "word": "alone."
+        },
+        {
+          "start": 158.046,
+          "end": 158.167,
+          "word": "You"
+        },
+        {
+          "start": 158.188,
+          "end": 158.309,
+          "word": "gotta"
+        },
+        {
+          "start": 158.329,
+          "end": 158.43099999999998,
+          "word": "have"
+        },
+        {
+          "start": 158.451,
+          "end": 158.49099999999999,
+          "word": "a"
+        },
+        {
+          "start": 158.53199999999998,
+          "end": 158.67399999999998,
+          "word": "good"
+        },
+        {
+          "start": 158.714,
+          "end": 158.87599999999998,
+          "word": "team."
+        },
+        {
+          "start": 159.746,
+          "end": 159.80700000000002,
+          "word": "You"
+        },
+        {
+          "start": 159.827,
+          "end": 159.989,
+          "word": "gotta"
+        },
+        {
+          "start": 160.05,
+          "end": 160.253,
+          "word": "talk"
+        },
+        {
+          "start": 160.313,
+          "end": 160.536,
+          "word": "about"
+        },
+        {
+          "start": 160.61700000000002,
+          "end": 160.678,
+          "word": "it."
+        },
+        {
+          "start": 161.852,
+          "end": 161.953,
+          "word": "You"
+        },
+        {
+          "start": 161.994,
+          "end": 162.055,
+          "word": "do"
+        },
+        {
+          "start": 162.095,
+          "end": 162.21699999999998,
+          "word": "this"
+        },
+        {
+          "start": 162.257,
+          "end": 162.41899999999998,
+          "word": "so"
+        },
+        {
+          "start": 162.48000000000002,
+          "end": 163.411,
+          "word": "well."
+        }
+      ],
+      "emotion": {
+        "label": "fearful",
+        "score": 0.9824345707893372
+      }
+    },
+    {
+      "start": 82.465,
+      "end": 94.99,
+      "text": " and make sure that becomes part of your fabric, your culture, your DNA.  And I think it's shifting.  But it's slow.  I think the conversation around mental health in everyday life.",
+      "words": [
+        {
+          "start": 164.93,
+          "end": 165.27300000000002,
+          "word": "and"
+        },
+        {
+          "start": 165.31400000000002,
+          "end": 165.698,
+          "word": "make"
+        },
+        {
+          "start": 165.738,
+          "end": 165.859,
+          "word": "sure"
+        },
+        {
+          "start": 165.92000000000002,
+          "end": 166.061,
+          "word": "that"
+        },
+        {
+          "start": 166.122,
+          "end": 166.405,
+          "word": "becomes"
+        },
+        {
+          "start": 166.566,
+          "end": 166.789,
+          "word": "part"
+        },
+        {
+          "start": 166.829,
+          "end": 166.869,
+          "word": "of"
+        },
+        {
+          "start": 166.89,
+          "end": 167.051,
+          "word": "your"
+        },
+        {
+          "start": 167.152,
+          "end": 167.758,
+          "word": "fabric,"
+        },
+        {
+          "start": 167.77800000000002,
+          "end": 167.92000000000002,
+          "word": "your"
+        },
+        {
+          "start": 167.981,
+          "end": 168.385,
+          "word": "culture,"
+        },
+        {
+          "start": 168.425,
+          "end": 168.607,
+          "word": "your"
+        },
+        {
+          "start": 168.647,
+          "end": 168.95,
+          "word": "DNA."
+        },
+        {
+          "start": 172.93,
+          "end": 174.12400000000002,
+          "word": "And"
+        },
+        {
+          "start": 174.144,
+          "end": 174.164,
+          "word": "I"
+        },
+        {
+          "start": 175.095,
+          "end": 175.236,
+          "word": "think"
+        },
+        {
+          "start": 175.277,
+          "end": 175.378,
+          "word": "it's"
+        },
+        {
+          "start": 175.39800000000002,
+          "end": 176.207,
+          "word": "shifting."
+        },
+        {
+          "start": 179.444,
+          "end": 180.113,
+          "word": "But"
+        },
+        {
+          "start": 180.13400000000001,
+          "end": 180.255,
+          "word": "it's"
+        },
+        {
+          "start": 180.31599999999997,
+          "end": 181.47199999999998,
+          "word": "slow."
+        },
+        {
+          "start": 183.46,
+          "end": 183.52100000000002,
+          "word": "I"
+        },
+        {
+          "start": 183.541,
+          "end": 183.683,
+          "word": "think"
+        },
+        {
+          "start": 183.744,
+          "end": 183.845,
+          "word": "the"
+        },
+        {
+          "start": 183.926,
+          "end": 184.493,
+          "word": "conversation"
+        },
+        {
+          "start": 184.53300000000002,
+          "end": 184.716,
+          "word": "around"
+        },
+        {
+          "start": 184.756,
+          "end": 185.019,
+          "word": "mental"
+        },
+        {
+          "start": 185.06,
+          "end": 185.303,
+          "word": "health"
+        },
+        {
+          "start": 185.566,
+          "end": 185.627,
+          "word": "in"
+        },
+        {
+          "start": 185.728,
+          "end": 186.032,
+          "word": "everyday"
+        },
+        {
+          "start": 186.09199999999998,
+          "end": 186.72,
+          "word": "life."
+        }
+      ],
+      "emotion": {
+        "label": "surprised",
+        "score": 0.8691697716712952
+      }
+    },
+    {
+      "start": 95.746,
+      "end": 104.305,
+      "text": " It's the most approachable it's ever been.  Right. I talk about things with my own kids today around mental health.  When I was a child coming",
+      "words": [
+        {
+          "start": 191.492,
+          "end": 191.694,
+          "word": "It's"
+        },
+        {
+          "start": 191.735,
+          "end": 191.81599999999997,
+          "word": "the"
+        },
+        {
+          "start": 191.937,
+          "end": 192.221,
+          "word": "most"
+        },
+        {
+          "start": 192.302,
+          "end": 192.909,
+          "word": "approachable"
+        },
+        {
+          "start": 192.99,
+          "end": 193.112,
+          "word": "it's"
+        },
+        {
+          "start": 193.152,
+          "end": 193.29399999999998,
+          "word": "ever"
+        },
+        {
+          "start": 193.355,
+          "end": 194.043,
+          "word": "been."
+        },
+        {
+          "start": 196.554,
+          "end": 196.938,
+          "word": "Right."
+        },
+        {
+          "start": 197.928,
+          "end": 198.00900000000001,
+          "word": "I"
+        },
+        {
+          "start": 198.089,
+          "end": 198.332,
+          "word": "talk"
+        },
+        {
+          "start": 198.393,
+          "end": 198.574,
+          "word": "about"
+        },
+        {
+          "start": 198.635,
+          "end": 198.817,
+          "word": "things"
+        },
+        {
+          "start": 198.857,
+          "end": 198.978,
+          "word": "with"
+        },
+        {
+          "start": 199.039,
+          "end": 199.18,
+          "word": "my"
+        },
+        {
+          "start": 199.261,
+          "end": 199.382,
+          "word": "own"
+        },
+        {
+          "start": 199.463,
+          "end": 199.726,
+          "word": "kids"
+        },
+        {
+          "start": 199.76600000000002,
+          "end": 200.00900000000001,
+          "word": "today"
+        },
+        {
+          "start": 200.029,
+          "end": 200.251,
+          "word": "around"
+        },
+        {
+          "start": 200.292,
+          "end": 200.554,
+          "word": "mental"
+        },
+        {
+          "start": 200.574,
+          "end": 201.261,
+          "word": "health."
+        },
+        {
+          "start": 204.554,
+          "end": 204.96,
+          "word": "When"
+        },
+        {
+          "start": 205.02100000000002,
+          "end": 205.061,
+          "word": "I"
+        },
+        {
+          "start": 205.102,
+          "end": 205.203,
+          "word": "was"
+        },
+        {
+          "start": 205.264,
+          "end": 205.284,
+          "word": "a"
+        },
+        {
+          "start": 205.345,
+          "end": 205.73000000000002,
+          "word": "child"
+        },
+        {
+          "start": 205.994,
+          "end": 206.582,
+          "word": "coming"
+        }
+      ],
+      "emotion": {
+        "label": "happy",
+        "score": 0.9806206822395325
+      }
+    }
+  ]
+}

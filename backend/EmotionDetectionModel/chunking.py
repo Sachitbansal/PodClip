@@ -3,26 +3,27 @@ import os
 import subprocess
 
 # === Configs ===
-json_path = "backend/EmotionDetectionModel/audio/output001.json"          # Path to your JSON file
-source_audio = "backend/EmotionDetectionModel/audio/output001.wav"       # Your original audio file
+json_path = "backend/WhisperXModel/output/raw/output001/output001.json"          # Path to your JSON file
+source_audio = "backend/WhisperXModel/audio/chunks/output001.wav"       # Your original audio file
 output_dir = "backend/EmotionDetectionModel/audio/chunks"            # Directory to save audio clips
-num_pairs = 10                      # 5 pairs = 10 segments total
+num_chunks = 10                                                    # Total combined chunks
+segments_per_chunk = 4                                            # Number of segments combined
 
-# === Ensure output folder exists ===
+# Ensure output folder exists
 os.makedirs(output_dir, exist_ok=True)
 
-# === Load JSON ===
+# Load JSON
 with open(json_path, "r") as f:
     data = json.load(f)
 
-segments = data["segments"][:num_pairs * 2]  # 10 segments → 5 pairs
+segments = data["segments"][:num_chunks * segments_per_chunk]  # 40 segments total
 
-# === Create combined clips ===
-for i in range(0, len(segments), 2):
+# Create combined chunks of 4 segments each
+for i in range(0, len(segments), segments_per_chunk):
     start = segments[i]["start"]
-    end = segments[i + 1]["end"]
+    end = segments[i + segments_per_chunk - 1]["end"]
     duration = end - start
-    output_path = os.path.join(output_dir, f"clip_pair_{i//2:02d}.wav")
+    output_path = os.path.join(output_dir, f"chunk_{i // segments_per_chunk:02d}.wav")
 
     command = [
         "ffmpeg",
@@ -30,10 +31,10 @@ for i in range(0, len(segments), 2):
         "-i", source_audio,
         "-ss", str(start),
         "-t", str(duration),
-        "-acodec", "copy",  # Use "pcm_s16le" if needed for model compatibility
+        "-acodec", "copy",  # Change to "pcm_s16le" if needed for compatibility
         output_path
     ]
 
     subprocess.run(command, stdout=subprocess.DEVNULL, stderr=subprocess.STDOUT)
 
-print(f"✅ Extracted {num_pairs} combined clips into '{output_dir}' folder.")
+print(f"✅ Extracted {num_chunks} combined chunks of {segments_per_chunk} segments each into '{output_dir}'.")
