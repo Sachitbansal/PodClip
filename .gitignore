@@ -7,3 +7,4 @@ downloaded_video.f401.mp4
 podcast_faces.mp4
 backend/WhisperXModel/audio
 WhisperXEnv
+backend/EmotionDetectionModel/audio

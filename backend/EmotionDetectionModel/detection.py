@@ -1,59 +1,45 @@
 import os
-import torch
-import torchaudio
-from transformers import AutoModelForAudioClassification, AutoFeatureExtractor
+from transformers import pipeline
 
-# Model name (emotion recognition)
-model_name = "superb/hubert-large-superb-er"
-
-# Use AutoFeatureExtractor for audio-only models (not AutoProcessor)
-feature_extractor = AutoFeatureExtractor.from_pretrained(model_name)
-model = AutoModelForAudioClassification.from_pretrained(model_name)
-
-# Device setup
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-model.to(device)
-
-# Input directory
-chunk_dir = "backend/EmotionDetectionModel/audio/chunks"
-# Output file
-output_file = "emotion_outputs/results.txt"
-
-# Create output folder if it doesn't exist
-os.makedirs("emotion_outputs", exist_ok=True)
-
-# Clear previous results
-with open(output_file, "w") as f:
-    f.write("")
-
-# Iterate over audio files
-for fname in sorted(os.listdir(chunk_dir)):
-    if fname.endswith(".wav"):
-        path = os.path.join(chunk_dir, fname)
-
+def run_emotion_pipeline(
+    input_folder="backend/EmotionDetectionModel/audio/chunks",
+    output_file="emotion_outputs/results.txt",
+    model_name="superb/hubert-large-superb-er",
+    device=None,
+):
+    # Automatically detect GPU
+    if device is None:
         try:
-            # Load and resample audio
-            speech_array, sr = torchaudio.load(path)
-            if sr != 16000:
-                resampler = torchaudio.transforms.Resample(orig_freq=sr, new_freq=16000)
-                speech_array = resampler(speech_array)
+            import torch
+            device = 0 if torch.cuda.is_available() else -1
+        except ImportError:
+            device = -1  # fallback
 
-            # Extract features
-            inputs = feature_extractor(speech_array.squeeze().numpy(), sampling_rate=16000, return_tensors="pt")
-            input_values = inputs["input_values"].to(device)
+    # Load emotion classification pipeline
+    pipe = pipeline("audio-classification", model=model_name, device=device)
 
-            # Model prediction
-            with torch.no_grad():
-                logits = model(input_values).logits
+    # Ensure output directory exists
+    os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
-            predicted_class_id = int(torch.argmax(logits, dim=-1))
-            predicted_label = model.config.id2label[predicted_class_id]
-            confidence = torch.softmax(logits, dim=-1)[0][predicted_class_id].item()
+    # Clear previous results
+    with open(output_file, "w") as f:
+        f.write("")
 
-            # Print and save
-            print(f"{fname}: {predicted_label} ({confidence:.2f})")
-            with open(output_file, "a") as f:
-                f.write(f"{fname}: {predicted_label} ({confidence:.2f})\n")
+    # Process all .wav files in input folder
+    for fname in sorted(os.listdir(input_folder)):
+        if fname.endswith(".wav"):
+            file_path = os.path.join(input_folder, fname)
 
-        except Exception as e:
-            print(f"Error processing {fname}: {e}")
+            try:
+                result = pipe(file_path)[0]  # Top prediction
+                label = result['label']
+                score = result['score']
+
+                print(f"{fname}: {label} ({score:.2f})")
+
+                with open(output_file, "a") as f:
+                    f.write(f"{fname}: {label} ({score:.2f})\n")
+
+            except Exception as e:
+                print(f"Error processing {fname}: {e}")
+
