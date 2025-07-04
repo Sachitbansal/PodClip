@@ -166,6 +166,7 @@
           "word": "push."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "happy",
         "score": 0.9465407133102417
@@ -342,6 +343,7 @@
           "word": "data."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "fearful",
         "score": 0.5248692631721497
@@ -558,6 +560,7 @@
           "word": "company."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "happy",
         "score": 0.9831247329711914
@@ -709,6 +712,7 @@
           "word": "Instagram."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "fearful",
         "score": 0.9959789514541626
@@ -885,6 +889,7 @@
           "word": "now."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "fearful",
         "score": 0.5306679606437683
@@ -1056,6 +1061,7 @@
           "word": "work."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "surprised",
         "score": 0.8817501068115234
@@ -1312,6 +1318,7 @@
           "word": "pull."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "surprised",
         "score": 0.6048997640609741
@@ -1453,6 +1460,7 @@
           "word": "well."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "fearful",
         "score": 0.9824345707893372
@@ -1619,6 +1627,7 @@
           "word": "life."
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "surprised",
         "score": 0.8691697716712952
@@ -1760,6 +1769,7 @@
           "word": "coming"
         }
       ],
+      "speaker": "SPEAKER_00",
       "emotion": {
         "label": "happy",
         "score": 0.9806206822395325
