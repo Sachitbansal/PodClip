@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 # Load environment variables from .env
 load_dotenv()
 
-chunks_dir = "audio/chunks"
+chunks_dir = "backend/WhisperXModel/audio"
 output_base = "output"  # base directory to store results
 
 # Ensure output base directory exists
